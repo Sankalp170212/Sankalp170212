@@ -4,8 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=650&lines=Building+React+%26+React+Native+apps;Shipping+production+software;Exploring+RAG+%26+LLM+tooling)](https://github.com/Sankalp170212)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)
-[![Portfolio](https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white)](your-portfolio-url)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sankalppatil19923)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sankalppatil1712@gmail.com)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Sankalp170212&color=6366f1&style=flat-square&label=Profile+Views)
@@ -48,6 +47,6 @@
 
 ### 📫 Let's connect
 
-I'm open to opportunities in frontend, mobile and AI-powered application development. Reach out on [LinkedIn](your-linkedin-url) or by email.
+I'm open to opportunities in frontend, mobile and AI-powered application development. Reach out on [LinkedIn](https://www.linkedin.com/in/sankalppatil19923) or by email.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
